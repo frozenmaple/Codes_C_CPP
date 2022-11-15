@@ -1,0 +1,3 @@
+First of all, Writing equations using Kirchhoff’s laws.
+Not surprisingly, the behavior of an electric circuit is determined both by the types of elements that comprise the circuit and by the way those elements are connected. The constitutive equations describe the elements themselves, and Kirchhoff’s laws describe the way the elements are connected to form the circuit.
+The second step is to analyze simple electric circuits, using only Kirchhoff’s laws and the constitutive equations of the circuit elements.

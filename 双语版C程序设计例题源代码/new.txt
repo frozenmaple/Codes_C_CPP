@@ -1,0 +1,3 @@
+This is line 1 of file.txt
+This is line 2
+and this is line 3.

@@ -1,0 +1,4 @@
+$$Hello,  world.
+%%This %%is C programming lecture.
+This is message from LJMU.
+Hope you guys enjoy.
